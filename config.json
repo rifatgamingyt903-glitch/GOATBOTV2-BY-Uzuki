@@ -17,19 +17,19 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100053549552408",
-    "61557118090040"
+    "61574316459995",
+    ""
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "OWNER": "Cliff Vincent",
+  "OWNER": "Rifat Ahmed",
   "AGE": "18",
   "GENDER": "MALE",
-  "nickNameBot": "Yazkybot",
-  "FACEBOOK": "https://www.facebook.com/swordigo.swordslush",
+  "nickNameBot": "🌸 Hina Chan 🌸",
+  "FACEBOOK": "",
   "prefix": "✓",
   "database": {
     "type": "sqlite",
